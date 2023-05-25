@@ -1,4 +1,4 @@
-package com.danuja.my_first_springboot.payroll;
+package com.danuja.my_first_springboot;
 import java.util.Objects;
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
